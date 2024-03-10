@@ -5,8 +5,8 @@
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "start": "bun run src/index.js",
-    "dev": "bun run --hot src/index.js"
+    "start": "bun run server.js",
+    "dev": "bun run --hot server.js"
   },
   "dependencies": {
     "bun": "latest",
